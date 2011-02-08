@@ -1,0 +1,15 @@
+<projectDescription>
+  <name>blueprints</name>
+  <comment>Blueprints is a property graph model interface. It also provides implementations, ouplementations, test
+        suites, and
+        supporting extensions. NO_M2ECLIPSE_SUPPORT: Project files created with the maven-eclipse-plugin are not supported in M2Eclipse.</comment>
+  <projects/>
+  <buildSpec>
+    <buildCommand>
+      <name>org.eclipse.jdt.core.javabuilder</name>
+    </buildCommand>
+  </buildSpec>
+  <natures>
+    <nature>org.eclipse.jdt.core.javanature</nature>
+  </natures>
+</projectDescription>
